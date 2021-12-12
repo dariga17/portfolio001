@@ -135,7 +135,6 @@
   }
   img {
     height: 500px;
-    width: auto;
     display: inline-block;
     margin: 25px 10px;
   }
@@ -192,6 +191,12 @@
   /* Projects END */
   
   /* REACH OUT STYLES START */
+  .bottompic {
+    display: inline-block;
+    height: 500px;
+    width: auto;
+  }
+
   .contact {
     background: var(--tertiary-color);
   }
